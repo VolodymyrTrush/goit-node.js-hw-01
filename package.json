@@ -19,7 +19,11 @@
     "url": "https://github.com/VolodymyrTrush/goit-node.js-hw-01/issues"
   },
   "homepage": "https://github.com/VolodymyrTrush/goit-node.js-hw-01#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "nanoid": "^3.3.4"
   }
 }
